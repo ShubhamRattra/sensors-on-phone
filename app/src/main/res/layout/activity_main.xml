@@ -9,7 +9,7 @@
     android:paddingTop="12dp"
     android:paddingRight="24dp"
     android:paddingBottom="12dp"
-    tools:context="com.shubham.sensor.MainActivity">
+    tools:context="com.rattra.sensor.MainActivity">
 
     <ListView
         android:id="@+id/listview1"

@@ -1,4 +1,4 @@
-package com.shubham.sensor;
+package com.rattra.sensor;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

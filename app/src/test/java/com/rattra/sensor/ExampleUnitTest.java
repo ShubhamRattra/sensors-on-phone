@@ -1,4 +1,4 @@
-package com.shubham.sensor;
+package com.rattra.sensor;
 
 import org.junit.Test;
 
